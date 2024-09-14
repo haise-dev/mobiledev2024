@@ -1,0 +1,32 @@
+<resources>
+    <!-- Days of the week -->
+    <string name="day_mon">Thứ Hai</string>
+    <string name="day_tue">Thứ Ba</string>
+    <string name="day_wed">Thứ Tư</string>
+    <string name="day_thu">Thứ Năm</string>
+    <string name="day_fri">Thứ Sáu</string>
+    <string name="day_sat">Thứ Bảy</string>
+    <string name="day_sun">Chủ Nhật</string>
+
+    <!-- Weather conditions -->
+    <string name="condition_partly_cloudy">Có mây rải rác</string>
+    <string name="condition_showers">Mưa rào</string>
+    <string name="condition_rain">Mưa</string>
+    <string name="condition_scattered_showers">Mưa rào rải rác</string>
+    <string name="condition_mostly_cloudy">Phần lớn có mây</string>
+
+    <string name="condition_cloudy">Có mây</string>
+
+    <string name="condition_thunderstorms">Giông bão</string>
+    <string name="condition_scattered_thunderstorms">Giông bão rải rác</string>
+
+    <!-- Temperature ranges -->
+    <string name="temp_24_31">24°C - 31°C</string>
+    <string name="temp_24_30">24°C - 30°C</string>
+    <string name="temp_22_23">22°C - 23°C</string>
+    <string name="temp_22_27">22°C - 27°C</string>
+    <string name="temp_22_30">22°C - 30°C</string>
+    <string name="temp_25_28">25°C - 28°C</string>
+    <string name="temp_24_27">24°C - 27°C</string>
+    <string name="temp_24_26">24°C - 26°C</string>
+</resources>
